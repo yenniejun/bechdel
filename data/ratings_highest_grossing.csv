@@ -1,0 +1,438 @@
+,title,year,rating
+0,Black Panther,2018,3.0
+1,Avengers: Infinity War,2018,3.0
+2,Incredibles 2,2018,3.0
+3,Jurassic World: Fallen Kingdom,2018,3.0
+4,Deadpool 2,2018,2.0
+5,Mission: Impossible - Fallout,2018,1.0
+6,Ant-Man and the Wasp,2018,3.0
+7,Solo: A Star Wars Story,2018,2.0
+8,Venom,2018,1.0
+9,A Star is Born ,2018,3.0
+10,Star Wars: The Last Jedi,2017,3.0
+11,Beauty and the Beast ,2017,3.0
+12,Wonder Woman,2017,3.0
+13,Jumanji: Welcome to the Jungle,2017,3.0
+14,Guardians of the Galaxy Vol. 2,2017,3.0
+15,Spider-Man: Homecoming,2017,3.0
+16,It,2017,3.0
+17,Thor: Ragnarok,2017,1.0
+18,Despicable Me 3,2017,3.0
+19,Justice League,2017,3.0
+20,Rogue One: A Star Wars Story,2016,3.0
+21,Finding Dory,2016,3.0
+22,Captain America: Civil War,2016,3.0
+23,The Secret Life of Pets,2016,2.0
+24,The Jungle Book ,2016,2.0
+25,Deadpool,2016,1.0
+26,Zootopia,2016,3.0
+27,Batman v Superman: Dawn of Justice,2016,2.0
+28,Suicide Squad,2016,3.0
+29,Sing,2016,3.0
+30,Star Wars: The Force Awakens,2015,3.0
+31,Jurassic World,2015,3.0
+32,Avengers: Age of Ultron,2015,3.0
+33,Inside Out,2015,3.0
+34,Furious 7,2015,3.0
+35,Minions,2015,3.0
+36,The Hunger Games: Mockingjay - Part 2,2015,3.0
+37,The Martian,2015,3.0
+38,Cinderella,2015,3.0
+39,Spectre,2015,1.0
+40,Transformers: Age of Extinction,2014,3.0
+41,The Hobbit: The Battle of the Five Armies,2014,1.0
+42,Guardians of the Galaxy,2014,3.0
+43,Maleficent,2014,3.0
+44,The Hunger Games: Mockingjay - Part 1,2014,3.0
+45,X-Men: Days of Future Past,2014,1.0
+46,Captain America: The Winter Soldier,2014,3.0
+47,The Amazing Spider-Man 2,2014,1.0
+48,Dawn of the Planet of the Apes,2014,1.0
+49,Interstellar,2014,3.0
+50,Frozen,2013,3.0
+51,Iron Man 3,2013,3.0
+52,Despicable Me 2,2013,3.0
+53,The Hobbit: The Desolation of Smaug,2013,3.0
+54,The Hunger Games: Catching Fire,2013,3.0
+55,Fast & Furious 6,2013,3.0
+56,Monsters University,2013,1.0
+57,Gravity,2013,0.0
+58,Man of Steel,2013,3.0
+59,Thor: The Dark World,2013,3.0
+60,The Avengers,2012,1.0
+61,Skyfall,2012,3.0
+62,The Dark Knight Rises,2012,1.0
+63,The Hobbit: An Unexpected Journey,2012,0.0
+64,Ice Age: Continental Drift,2012,
+65,The Twilight Saga: Breaking Dawn - Part 2,2012,3.0
+66,The Amazing Spider-Man,2012,2.0
+67,Madagascar 3: Europe's Most Wanted,2012,2.0
+68,The Hunger Games,2012,3.0
+69,Men in Black 3,2012,1.0
+70,Harry Potter and the Deathly Hallows - Part 2,2011,3.0
+71,Transformers: Dark of the Moon,2011,3.0
+72,Pirates of the Caribbean: On Stranger Tides,2011,1.0
+73,The Twilight Saga: Breaking Dawn - Part 1,2011,3.0
+74,Mission: Impossible - Ghost Protocol,2011,1.0
+75,Kung Fu Panda 2,2011,3.0
+76,Fast Five,2011,3.0
+77,The Hangover Part II,2011,1.0
+78,The Smurfs,2011,3.0
+79,Cars 2,2011,2.0
+80,Toy Story 3,2010,3.0
+81,Alice in Wonderland,2010,3.0
+82,Harry Potter and the Deathly Hallows - Part 1,2010,1.0
+83,Inception,2010,3.0
+84,Shrek Forever After,2010,1.0
+85,The Twilight Saga: Eclipse,2010,3.0
+86,Iron Man 2,2010,3.0
+87,Tangled,2010,3.0
+88,Despicable Me,2010,3.0
+89,How to Train Your Dragon,2010,3.0
+90,Avatar,2009,2.0
+91,Harry Potter and the Half-Blood Prince,2009,3.0
+92,Ice Age: Dawn of the Dinosaurs,2009,1.0
+93,Transformers: Revenge of the Fallen,2009,3.0
+94,2012,2009,1.0
+95,Up,2009,3.0
+96,The Twilight Saga: New Moon,2009,3.0
+97,Sherlock Holmes,2009,1.0
+98,Angels & Demons,2009,0.0
+99,The Hangover,2009,1.0
+100,The Dark Knight,2008,3.0
+101,Indiana Jones and the Kingdom of the Crystal Skull,2008,1.0
+102,Kung Fu Panda,2008,3.0
+103,Hancock,2008,0.0
+104,Mamma Mia!,2008,3.0
+105,Madagascar: Escape 2 Africa,2008,
+106,Quantum of Solace,2008,1.0
+107,Iron Man,2008,2.0
+108,WALL-E,2008,1.0
+109,The Chronicles of Narnia: Prince Caspian,2008,3.0
+110,Pirates of the Caribbean: At World's End,2007,3.0
+111,Harry Potter and the Order of the Phoenix,2007,3.0
+112,Spider-Man 3,2007,2.0
+113,Shrek the Third,2007,3.0
+114,Transformers,2007,3.0
+115,Ratatouille,2007,1.0
+116,I Am Legend,2007,3.0
+117,The Simpsons Movie,2007,3.0
+118,National Treasure: Book of Secrets,2007,
+119,300,2007,0.0
+120,Pirates of the Caribbean: Dead Man's Chest,2006,2.0
+121,The Da Vinci Code,2006,1.0
+122,Ice Age: The Meltdown,2006,1.0
+123,Casino Royale,2006,1.0
+124,Night at the Museum,2006,3.0
+125,Cars,2006,1.0
+126,X-Men: The Last Stand,2006,3.0
+127,Mission: Impossible III,2006,1.0
+128,Superman Returns,2006,1.0
+129,Happy Feet,2006,3.0
+130,Harry Potter and the Goblet of Fire,2005,1.0
+131,Star Wars Episode III: Revenge of the Sith,2005,1.0
+132,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,3.0
+133,War of the Worlds,2005,3.0
+134,King Kong,2005,0.0
+135,Madagascar,2005,0.0
+136,Mr. & Mrs. Smith,2005,2.0
+137,Charlie and the Chocolate Factory,2005,3.0
+138,Batman Begins,2005,1.0
+139,Hitch,2005,2.0
+140,Shrek 2,2004,3.0
+141,Harry Potter and the Prisoner of Azkaban,2004,3.0
+142,Spider-Man 2,2004,1.0
+143,The Incredibles,2004,3.0
+144,The Passion of the Christ,2004,3.0
+145,The Day After Tomorrow,2004,3.0
+146,Meet the Fockers,2004,3.0
+147,Troy,2004,1.0
+148,Shark Tale,2004,1.0
+149,Ocean's Twelve,2004,2.0
+150,The Lord of the Rings: The Return of the King,2003,1.0
+151,Finding Nemo,2003,1.0
+152,The Matrix Reloaded,2003,3.0
+153,Pirates of the Caribbean: The Curse of the Black Pearl,2003,3.0
+154,Bruce Almighty,2003,3.0
+155,The Last Samurai,2003,0.0
+156,Terminator 3: Rise of the Machines,2003,3.0
+157,The Matrix Revolutions,2003,3.0
+158,X2,2003,3.0
+159,Bad Boys II,2003,
+160,The Lord of the Rings: The Two Towers,2002,3.0
+161,Harry Potter and the Chamber of Secrets,2002,3.0
+162,Spider-Man,2002,1.0
+163,Star Wars Episode II: Attack of the Clones,2002,3.0
+164,Men in Black II,2002,1.0
+165,Die Another Day,2002,2.0
+166,Signs,2002,1.0
+167,Ice Age,2002,0.0
+168,My Big Fat Greek Wedding,2002,3.0
+169,Minority Report,2002,1.0
+170,Harry Potter and the Sorcerer's Stone,2001,3.0
+171,The Lord of the Rings: The Fellowship of the Ring,2001,1.0
+172,"Monsters, Inc.",2001,1.0
+173,Shrek,2001,1.0
+174,Ocean's Eleven,2001,1.0
+175,Pearl Harbor,2001,2.0
+176,The Mummy Returns,2001,3.0
+177,Jurassic Park III,2001,2.0
+178,Planet of the Apes,2001,3.0
+179,Hannibal,2001,3.0
+180,Mission: Impossible II,2000,0.0
+181,Gladiator,2000,0.0
+182,Cast Away,2000,2.0
+183,What Women Want,2000,1.0
+184,Dinosaur,2000,3.0
+185,How the Grinch Stole Christmas,2000,3.0
+186,Meet the Parents,2000,2.0
+187,The Perfect Storm,2000,
+188,X-Men,2000,1.0
+189,What Lies Beneath,2000,3.0
+190,Star Wars Episode I: The Phantom Menace,1999,3.0
+191,The Sixth Sense,1999,3.0
+192,Toy Story 2,1999,1.0
+193,The Matrix,1999,3.0
+194,Tarzan,1999,2.0
+195,The Mummy,1999,1.0
+196,Notting Hill,1999,3.0
+197,The World Is Not Enough,1999,2.0
+198,American Beauty,1999,3.0
+199,Austin Powers: The Spy Who Shagged Me,1999,1.0
+200,Armageddon,1998,1.0
+201,Saving Private Ryan,1998,0.0
+202,Godzilla,1998,3.0
+203,There's Something About Mary,1998,3.0
+204,A Bug's Life,1998,3.0
+205,Deep Impact,1998,3.0
+206,Mulan,1998,3.0
+207,Dr. Dolittle,1998,
+208,Shakespeare in Love,1998,3.0
+209,Lethal Weapon 4,1998,1.0
+210,Titanic,1997,3.0
+211,The Lost World: Jurassic Park,1997,3.0
+212,Men in Black,1997,1.0
+213,Tomorrow Never Dies,1997,
+214,Air Force One,1997,1.0
+215,As Good as It Gets,1997,3.0
+216,Liar Liar,1997,1.0
+217,My Best Friend's Wedding,1997,2.0
+218,The Fifth Element,1997,1.0
+219,The Full Monty,1997,2.0
+220,Independence Day,1996,3.0
+221,Twister,1996,3.0
+222,Mission: Impossible,1996,1.0
+223,The Rock,1996,1.0
+224,The Hunchback of Notre Dame,1996,1.0
+225,101 Dalmatians,1996,3.0
+226,Ransom,1996,
+227,The Nutty Professor,1996,
+228,Jerry Maguire,1996,2.0
+229,Eraser,1996,3.0
+230,Die Hard with a Vengeance,1995,1.0
+231,Toy Story,1995,1.0
+232,Apollo 13,1995,3.0
+233,GoldenEye,1995,3.0
+234,Pocahontas,1995,3.0
+235,Batman Forever,1995,1.0
+236,Seven,1995,
+237,Casper,1995,3.0
+238,Waterworld,1995,2.0
+239,Jumanji,1995,3.0
+240,The Lion King,1994,1.0
+241,Forrest Gump,1994,1.0
+242,True Lies,1994,3.0
+243,The Mask,1994,
+244,Speed,1994,3.0
+245,The Flintstones,1994,3.0
+246,Dumb and Dumber,1994,2.0
+247,Four Weddings and a Funeral,1994,3.0
+248,Interview with the Vampire: The Vampire Chronicles,1994,1.0
+249,Clear and Present Danger,1994,0.0
+250,Jurassic Park,1993,3.0
+251,Mrs. Doubtfire,1993,3.0
+252,The Fugitive,1993,2.0
+253,Schindler's List,1993,3.0
+254,The Firm,1993,3.0
+255,Indecent Proposal,1993,0.0
+256,Cliffhanger,1993,1.0
+257,Sleepless in Seattle,1993,2.0
+258,Philadelphia,1993,2.0
+259,The Pelican Brief,1993,3.0
+260,Aladdin,1992,0.0
+261,The Bodyguard,1992,2.0
+262,Home Alone 2: Lost in New York,1992,3.0
+263,Basic Instinct,1992,1.0
+264,Lethal Weapon 3,1992,1.0
+265,Batman Returns,1992,0.0
+266,A Few Good Men,1992,1.0
+267,Sister Act,1992,3.0
+268,Bram Stoker's Dracula,1992,2.0
+269,Wayne's World,1992,1.0
+270,Terminator 2: Judgment Day,1991,3.0
+271,Robin Hood: Prince of Thieves,1991,3.0
+272,Beauty and the Beast,1991,3.0
+273,Hook,1991,2.0
+274,The Silence of the Lambs,1991,3.0
+275,JFK,1991,3.0
+276,The Addams Family,1991,3.0
+277,Cape Fear,1991,3.0
+278,Hot Shots!,1991,1.0
+279,City Slickers,1991,3.0
+280,Ghost,1990,3.0
+281,Home Alone,1990,3.0
+282,Pretty Woman,1990,3.0
+283,Dances with Wolves,1990,1.0
+284,Total Recall,1990,1.0
+285,Back to the Future Part III,1990,1.0
+286,Die Hard 2,1990,3.0
+287,Presumed Innocent,1990,1.0
+288,Teenage Mutant Ninja Turtles,1990,2.0
+289,Kindergarten Cop,1990,3.0
+290,Indiana Jones and the Last Crusade,1989,0.0
+291,Batman,1989,1.0
+292,Back to the Future Part II,1989,3.0
+293,Look Who's Talking,1989,
+294,Dead Poets Society,1989,1.0
+295,Lethal Weapon 2,1989,3.0
+296,"Honey, I Shrunk the Kids",1989,3.0
+297,Ghostbusters II,1989,2.0
+298,The Little Mermaid,1989,3.0
+299,Born on the Fourth of July,1989,3.0
+300,Rain Man,1988,1.0
+301,Who Framed Roger Rabbit,1988,1.0
+302,Coming to America,1988,3.0
+303,Big,1988,1.0
+304,Twins,1988,3.0
+305,"""Crocodile"" Dundee II",1988,
+306,Die Hard,1988,3.0
+307,The Naked Gun: From the Files of Police Squad!,1988,1.0
+308,Cocktail,1988,
+309,Beetlejuice,1988,
+310,Three Men and a Baby,1987,1.0
+311,Fatal Attraction,1987,3.0
+312,Beverly Hills Cop II,1987,1.0
+313,"Good Morning, Vietnam",1987,1.0
+314,Moonstruck,1987,3.0
+315,The Untouchables,1987,
+316,The Secret of My Success,1987,1.0
+317,Stakeout,1987,
+318,Lethal Weapon,1987,1.0
+319,The Witches of Eastwick,1987,3.0
+320,Top Gun,1986,2.0
+321,"""Crocodile"" Dundee",1986,
+322,Platoon,1986,0.0
+323,"The Karate Kid, Part II",1986,1.0
+324,Star Trek IV: The Voyage Home,1986,3.0
+325,Back to School,1986,1.0
+326,Aliens,1986,3.0
+327,An American Tail,1986,3.0
+328,The Golden Child,1986,
+329,Ruthless People,1986,3.0
+330,Back to the Future,1985,2.0
+331,Rambo: First Blood Part II,1985,0.0
+332,Rocky IV,1985,2.0
+333,The Color Purple,1985,3.0
+334,Out Of Africa,1985,3.0
+335,Cocoon,1985,
+336,The Jewel of the Nile,1985,
+337,Witness,1985,3.0
+338,The Goonies,1985,3.0
+339,Spies Like Us,1985,1.0
+340,Ghostbusters,1984,2.0
+341,Beverly Hills Cop,1984,0.0
+342,Indiana Jones and the Temple of Doom,1984,0.0
+343,Gremlins,1984,1.0
+344,The Karate Kid,1984,3.0
+345,Police Academy,1984,3.0
+346,Footloose,1984,3.0
+347,The Terminator,1984,3.0
+348,Romancing the Stone,1984,3.0
+349,Star Trek III: The Search for Spock,1984,1.0
+350,Star Wars Episode VI: Return of the Jedi,1983,1.0
+351,Terms of Endearment,1983,1.0
+352,Flashdance,1983,3.0
+353,Trading Places,1983,1.0
+354,WarGames,1983,1.0
+355,Octopussy,1983,2.0
+356,Sudden Impact,1983,
+357,Staying Alive,1983,
+358,Mr. Mom,1983,
+359,Risky Business,1983,
+360,E.T. the Extra-Terrestrial,1982,3.0
+361,Tootsie,1982,1.0
+362,An Officer and a Gentleman,1982,3.0
+363,Rocky III,1982,0.0
+364,Porky's,1982,2.0
+365,Star Trek II: The Wrath of Khan,1982,3.0
+366,48 Hrs.,1982,2.0
+367,Poltergeist,1982,3.0
+368,The Best Little Whorehouse in Texas,1982,3.0
+369,Annie,1982,3.0
+370,Raiders of the Lost Ark,1981,3.0
+371,On Golden Pond,1981,
+372,Superman II,1981,
+373,Arthur,1981,
+374,Stripes,1981,2.0
+375,The Cannonball Run,1981,
+376,Chariots of Fire,1981,1.0
+377,For Your Eyes Only,1981,3.0
+378,The Four Seasons,1981,
+379,Time Bandits,1981,1.0
+380,Star Wars Episode V: The Empire Strikes Back,1980,0.0
+381,9 to 5,1980,
+382,Stir Crazy,1980,
+383,Airplane!,1980,3.0
+384,Any Which Way You Can,1980,1.0
+385,Private Benjamin,1980,3.0
+386,Coal Miner's Daughter,1980,3.0
+387,Smokey and the Bandit II,1980,
+388,The Blue Lagoon,1980,0.0
+389,The Blues Brothers,1980,1.0
+390,Kramer vs. Kramer,1979,1.0
+391,The Amityville Horror,1979,3.0
+392,Rocky II,1979,1.0
+393,Apocalypse Now,1979,0.0
+394,Star Trek: The Motion Picture,1979,1.0
+395,Alien,1979,3.0
+396,10,1979,
+397,The Jerk,1979,1.0
+398,Moonraker,1979,1.0
+399,The Muppet Movie,1979,2.0
+400,Grease,1978,3.0
+401,Superman,1978,1.0
+402,National Lampoon's Animal House,1978,
+403,Every Which Way but Loose,1978,
+404,Heaven Can Wait,1978,
+405,Hooper,1978,
+406,Jaws 2,1978,2.0
+407,Dawn of the Dead,1978,0.0
+408,Revenge of the Pink Panther,1978,
+409,The Deer Hunter,1978,1.0
+410,Star Wars,1977,1.0
+411,Smokey and the Bandit,1977,
+412,Close Encounters of the Third Kind,1977,1.0
+413,The Goodbye Girl,1977,3.0
+414,Saturday Night Fever,1977,1.0
+415,"Oh, God!",1977,
+416,A Bridge Too Far,1977,1.0
+417,The Deep,1977,
+418,The Spy Who Loved Me,1977,1.0
+419,Annie Hall,1977,3.0
+420,Rocky,1976,1.0
+421,To Fly!,1976,
+422,A Star Is Born,1976,0.0
+423,All the President's Men,1976,
+424,The Omen,1976,3.0
+425,In Search of Noah's Ark,1976,
+426,King Kong,1976,
+427,Silver Streak,1976,1.0
+428,The Enforcer,1976,
+429,Midway,1976,
+430,Dog Day Afternoon,1975,3.0
+431,Shampoo,1975,
+432,The Return of the Pink Panther,1975,
+433,Funny Lady,1975,
+434,The Apple Dumpling Gang,1975,
+435,"Aloha, Bobby and Rose",1975,
+436,The Other Side of the Mountain,1975,

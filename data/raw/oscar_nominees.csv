@@ -1,0 +1,561 @@
+,years,title
+0,2019,The Irishman
+1,2019,1917
+2,2019,Joker
+3,2019,Once Upon a Time... in Hollywood
+4,2019,Ford v Ferrari
+5,2019,Marriage Story
+6,2019,Little Women
+7,2019,Jojo Rabbit
+8,2019,Parasite
+9,2018,Roma
+10,2018,The Favourite
+11,2018,Black Panther
+12,2018,A Star Is Born
+13,2018,BlacKkKlansman
+14,2018,Bohemian Rhapsody
+15,2018,Vice
+16,2018,Green Book
+17,2017,Three Billboards Outside Ebbing
+18,2017,Missouri; Dunkirk
+19,2017,Lady Bird
+20,2017,Get Out
+21,2017,The Post
+22,2017,Darkest Hour
+23,2017,Call Me by Your Name
+24,2017,Phantom Thread
+25,2017,The Shape of Water
+26,2016,La La Land
+27,2016,Manchester by the Sea
+28,2016,Hidden Figures: The Untold Story of the African American Women Who Helped win the Space Race
+29,2016,Fences
+30,2016,Arrival
+31,2016,Hacksaw Ridge
+32,2016,Hell or High Water
+33,2016,Lion
+34,2016,Moonlight
+35,2015,The Revenant
+36,2015,The Big Short
+37,2015,The Martian
+38,2015,Mad Max: Fury Road
+39,2015,Room
+40,2015,Bridge of Spies
+41,2015,Brooklyn
+42,2015,Spotlight
+43,2014,American Sniper
+44,2014,Boyhood
+45,2014,The Grand Budapest Hotel
+46,2014,The Imitation Game
+47,2014,Selma
+48,2014,The Theory of Everything
+49,2014,Whiplash
+50,2014,Birdman or (The Unexpected Virtue of Ignorance)
+51,2013,Gravity
+52,2013,American Hustle
+53,2013,Dallas Buyers Club
+54,2013,Her
+55,2013,Philomena
+56,2013,The Wolf of Wall Street
+57,2013,Captain Phillips
+58,2013,Nebraska
+59,2013,12 Years a Slave
+60,2012,Lincoln
+61,2012,Zero Dark Thirty
+62,2012,Les MisÃ©rables
+63,2012,Life of Pi
+64,2012,Silver Linings Playbook
+65,2012,Django Unchained
+66,2012,Amour
+67,2012,Beasts of the Southern Wild
+68,2012,Argo
+69,2011,The Tree of Life
+70,2011,The Help
+71,2011,The Descendants
+72,2011,Hugo
+73,2011,Midnight in Paris
+74,2011,Moneyball
+75,2011,War Horse
+76,2011,Extremely Loud & Incredibly Close
+77,2011,The Artist
+78,2010,The Social Network
+79,2010,Inception
+80,2010,127 Hours
+81,2010,Black Swan
+82,2010,The Fighter
+83,2010,The Kids Are All Right
+84,2010,Toy Story 3
+85,2010,True Grit
+86,2010,Winter’s Bone
+87,2010,The King’s Speech
+88,2009,Avatar
+89,2009,The Blind Side
+90,2009,District 9
+91,2009,An Education
+92,2009,Inglourious Basterds
+93,2009,Precious: Based on the Novel Push by Sapphire
+94,2009,A Serious Man
+95,2009,Up
+96,2009,Up in the Air
+97,2009,The Hurt Locker
+98,2008,Frost/Nixon
+99,2008,Milk
+100,2008,The Curious Case of Benjamin Button
+101,2008,The Reader
+102,2008,Slumdog Millionaire
+103,2007,There Will Be Blood
+104,2007,Atonement
+105,2007,Juno
+106,2007,Michael Clayton
+107,2007,No Country for Old Men
+108,2006,Babel
+109,2006,Letters from Iwo Jima
+110,2006,Little Miss Sunshine
+111,2006,The Queen
+112,2006,The Departed
+113,2005,Brokeback Mountain
+114,2005,Capote
+115,2005,Good Night and Good Luck
+116,2005,Munich
+117,2005,Crash
+118,2004,Finding Neverland
+119,2004,Ray
+120,2004,Sideways
+121,2004,The Aviator
+122,2004,Million Dollar Baby
+123,2003,Lost in Translation
+124,2003,Master and Commander
+125,2003,Mystic River
+126,2003,Seabiscuit
+127,2003,The Lord of the Rings: The Return of the King
+128,2002,The Pianist
+129,2002,Gangs of New York
+130,2002,The Hours
+131,2002,The Lord of the Rings: The Two Towers
+132,2002,Chicago
+133,2001,The Lord of the Rings: The Fellowship of the Ring
+134,2001,Gosford Park
+135,2001,In the Bedroom
+136,2001,Moulin Rouge
+137,2001,A Beautiful Mind
+138,2000,Chocolat
+139,2000,Erin Brockovich
+140,2000,Traffic
+141,2000,Crouching Tiger Hidden Dragon
+142,2000,Gladiator
+143,1999,The Cider House Rules
+144,1999,The Green Mile
+145,1999,The Insider
+146,1999,The Sixth Sense
+147,1999,American Beauty
+148,1998,Elizabeth
+149,1998,Life is Beautiful
+150,1998,Saving Private Ryan
+151,1998,The Thin Red Line
+152,1998,Shakespeare in Love
+153,1997,Good Will Hunting
+154,1997,As Good as It Gets
+155,1997,L.A. Confidential
+156,1997,The Full Monty
+157,1997,Titanic
+158,1996,Fargo
+159,1996,Jerry Maguire
+160,1996,Secrets & Lies
+161,1996,Shine
+162,1996,The English Patient
+163,1995,Apollo 13
+164,1995,Babe
+165,1995,The Postman
+166,1995,Sense and Sensibility
+167,1995,Braveheart
+168,1994,Pulp Fiction
+169,1994,The Shawshank Redemption
+170,1994,Four Weddings and a Funeral
+171,1994,Quiz Show
+172,1994,Forrest Gump
+173,1993,In the Name of the Father
+174,1993,The Fugitive
+175,1993,The Piano
+176,1993,The Remains of the Day
+177,1993,Schindler's List
+178,1992,A Few Good Men
+179,1992,Howards End
+180,1992,Scent of a Woman
+181,1992,The Crying Game
+182,1992,Unforgiven
+183,1991,JFK
+184,1991,Bugsy
+185,1991,Beauty and the Beast
+186,1991,The Prince of Tides
+187,1991,The Silence of the Lambs
+188,1990,The Godfather: Part III
+189,1990,Awakenings
+190,1990,Ghost
+191,1990,Goodfellas
+192,1990,Dances With Wolves
+193,1989,Field of Dreams
+194,1989,Born on the Fourth of July
+195,1989,Dead Poets Society
+196,1989,My Left Foot: The Story of Christy Brown
+197,1989,Driving Miss Daisy
+198,1988,Mississippi Burning
+199,1988,Dangerous Liaisons
+200,1988,The Accidental Tourist
+201,1988,Working Girl
+202,1988,Rain Man
+203,1987,Broadcast News
+204,1987,Fatal Attraction
+205,1987,Hope and Glory
+206,1987,Moonstruck
+207,1987,The Last Emperor
+208,1986,Hannah and Her Sisters
+209,1986,A Room with a View
+210,1986,Children of a Lesser God
+211,1986,The Mission
+212,1986,Platoon
+213,1985,Kiss of the Spider Woman
+214,1985,Prizzi’s Honor
+215,1985,The Color Purple
+216,1985,Witness
+217,1985,Out of Africa
+218,1984,A Passage to India
+219,1984,A Soldier’s Story
+220,1984,Places in the Heart
+221,1984,The Killing Fields
+222,1984,Amadeus
+223,1983,The Right Stuff
+224,1983,Tender Mercies
+225,1983,The Big Chill
+226,1983,The Dresser
+227,1983,Terms of Endearment
+228,1982,E.T.: The Extra-Terrestrial
+229,1982,Missing
+230,1982,The Verdict
+231,1982,Tootsie
+232,1982,Gandhi
+233,1981,Raiders of the Lost Ark
+234,1981,On Golden Pond
+235,1981,Atlantic City
+236,1981,Reds
+237,1981,Chariots of Fire
+238,1980,Raging Bull
+239,1980,Coal Miner’s Daughter
+240,1980,Tess
+241,1980,The Elephant Man
+242,1980,Ordinary People
+243,1979,Apocalypse Now
+244,1979,All That Jazz
+245,1979,Breaking Away
+246,1979,Norma Rae
+247,1979,Kramer vs. Kramer
+248,1978,An Unmarried Woman
+249,1978,Coming Home
+250,1978,Heaven Can Wait
+251,1978,Midnight Express
+252,1978,The Deer Hunter
+253,1977,Star Wars
+254,1977,Julia
+255,1977,The Goodbye Girl
+256,1977,The Turning Point
+257,1977,Annie Hall
+258,1976,Taxi Driver
+259,1976,Network
+260,1976,All the President’s Men
+261,1976,Bound for Glory
+262,1976,Rocky
+263,1975,Jaws
+264,1975,Barry Lyndon
+265,1975,Dog Day Afternoon
+266,1975,Nashville
+267,1975,One Flew Over the Cuckoo’s Nest
+268,1974,Chinatown
+269,1974,Lenny
+270,1974,The Conversation
+271,1974,The Towering Inferno
+272,1974,"The Godfather, Part II"
+273,1973,The Exorcist
+274,1973,A Touch of Class
+275,1973,American Graffiti
+276,1973,Cries and Whispers
+277,1973,The Sting
+278,1972,Cabaret
+279,1972,Deliverance
+280,1972,Sounder
+281,1972,The Emigrants
+282,1972,The Godfather
+283,1971,A Clockwork Orange
+284,1971,Fiddler on the Roof
+285,1971,Nicholas and Alexandra
+286,1971,The Last Picture Show
+287,1971,The French Connection
+288,1970,Airport
+289,1970,Five Easy Pieces
+290,1970,Love Story
+291,1970,MASH
+292,1970,Patton
+293,1969,Butch Cassidy and the Sundance Kid
+294,1969,Anne of the Thousand Days
+295,1969,Hello Dolly!
+296,1969,Z
+297,1969,Midnight Cowboy
+298,1968,Funny Girl
+299,1968,Rachel Rachel
+300,1968,Romeo and Juliet
+301,1968,The Lion in Winter
+302,1968,Oliver!
+303,1967,The Graduate
+304,1967,Bonnie and Clyde
+305,1967,Doctor Dolittle
+306,1967,Guess Who’s Coming to Dinner
+307,1967,
+308,1967,In the Heat of the Night
+309,1966,Alfie
+310,1966,The Russians Are Coming
+311,1966,the Russians Are Coming
+312,1966,The Sand Pebbles
+313,1966,Who’s Afraid of Virginia Woolf?
+314,1966,A Man for All Seasons
+315,1965,Doctor Zhivago
+316,1965,A Thousand Clowns
+317,1965,Darling
+318,1965,Ship of Fools
+319,1965,The Sound of Music
+320,1964,Mary Poppins
+321,1964,Alexis Zorbas
+322,1964,Becket
+323,1964,Dr. Strangelove
+324,1964,
+325,1964,My Fair Lady
+326,1963,America America
+327,1963,Cleopatra
+328,1963,How the West Was Won
+329,1963,Lilies of the Field
+330,1963,Tom Jones
+331,1962,Mutiny on the Bounty
+332,1962,The Longest Day
+333,1962,The Music Man
+334,1962,To Kill a Mockingbird
+335,1962,Lawrence of Arabia
+336,1961,Fanny
+337,1961,Judgment at Nuremberg
+338,1961,The Guns of Navarone
+339,1961,The Hustler
+340,1961,West Side Story
+341,1960,Elmer Gantry
+342,1960,Sons and Lovers
+343,1960,The Alamo
+344,1960,The Sundowners
+345,1960,The Apartment
+346,1959,Anatomy of a Murder
+347,1959,Room at the Top
+348,1959,The Diary of Anne Frank
+349,1959,The Nun’s Story
+350,1959,Ben-Hur
+351,1958,Auntie Mame
+352,1958,Cat on a Hot Tin Roof
+353,1958,Separate Tables
+354,1958,The Defiant Ones
+355,1958,Gigi
+356,1957,12 Angry Men
+357,1957,Peyton Place
+358,1957,Sayonara
+359,1957,Witness for the Prosecution
+360,1957,The Bridge on the River Kwai
+361,1956,Giant
+362,1956,The Ten Commandments
+363,1956,Friendly Persuasion
+364,1956,The King and I
+365,1956,Around the World in Eighty Days
+366,1955,Love Is a Many-Splendored Thing
+367,1955,Mister Roberts
+368,1955,Picnic
+369,1955,The Rose Tattoo
+370,1955,Marty
+371,1954,The Caine Mutiny
+372,1954,Seven Brides for Seven Brothers
+373,1954,The Country Girl
+374,1954,Three Coins in the Fountain
+375,1954,On the Waterfront
+376,1953,Shane
+377,1953,Julius Caesar
+378,1953,Roman Holiday
+379,1953,The Robe
+380,1953,From Here to Eternity
+381,1952,High Noon
+382,1952,Ivanhoe
+383,1952,Moulin Rouge
+384,1952,The Quiet Man
+385,1952,The Greatest Show on Earth
+386,1951,A Place in the Sun
+387,1951,A Streetcar Named Desire
+388,1951,Decision Before Dawn
+389,1951,Quo Vadis
+390,1951,An American in Paris
+391,1950,Sunset Blvd.
+392,1950,Born Yesterday
+393,1950,Father of the Bride
+394,1950,King Solomon’s Mines
+395,1950,All About Eve
+396,1949,A Letter to Three Wives
+397,1949,Battleground
+398,1949,The Heiress
+399,1949,Twelve O’Clock High
+400,1949,All the King’s Men
+401,1948,The Treasure of the Sierra Madre
+402,1948,Johnny Belinda
+403,1948,The Red Shoes
+404,1948,The Snake Pit
+405,1948,Hamlet
+406,1947,Crossfire
+407,1947,Great Expectations
+408,1947,Miracle on 34th Street
+409,1947,The Bishop’s Wife
+410,1947,Gentleman’s Agreement
+411,1946,It’s a Wonderful Life
+412,1946,The Chronicle History of King Henry the Fifth with his Battell Fought at Agincourt in France
+413,1946,The Razor’s Edge
+414,1946,The Yearling
+415,1946,The Best Years of Our Lives
+416,1945,Mildred Pierce
+417,1945,Anchors Aweigh
+418,1945,Spellbound
+419,1945,The Bells of St. Mary’s
+420,1945,The Lost Weekend
+421,1944,Double Indemnity
+422,1944,Gaslight
+423,1944,Since You Went Away
+424,1944,Wilson
+425,1944,Going My Way
+426,1943,For Whom the Bell Tolls
+427,1943,Heaven Can Wait
+428,1943,In Which We Serve
+429,1943,Madame Curie
+430,1943,The Human Comedy
+431,1943,The More the Merrier
+432,1943,The Ox-Bow Incident
+433,1943,The Song of Bernadette
+434,1943,Watch on the Rhine
+435,1943,Casablanca
+436,1942,Yankee Doodle Dandy
+437,1942,The Pride of the Yankees
+438,1942,The Magnificent Ambersons
+439,1942,49th Parallel
+440,1942,Kings Row
+441,1942,Random Harvest
+442,1942,The Pied Piper
+443,1942,The Talk of the Town
+444,1942,Wake Island
+445,1942,Mrs. Miniver
+446,1941,Citizen Kane
+447,1941,The Maltese Falcon
+448,1941,Suspicion
+449,1941,Sergeant York
+450,1941,Blossoms in the Dust
+451,1941,Here Comes Mr. Jordan
+452,1941,Hold Back the Dawn
+453,1941,One Foot in Heaven
+454,1941,The Little Foxes
+455,1941,How Green Was My Valley
+456,1940,The Grapes of Wrath
+457,1940,The Philadelphia Story
+458,1940,The Great Dictator
+459,1940,All This and Heaven Too
+460,1940,Foreign Correspondent
+461,1940,Kitty Foyle: The Natural History of a Woman
+462,1940,Our Town
+463,1940,The Letter
+464,1940,The Long Voyage Home
+465,1940,Rebecca
+466,1939,The Wizard of Oz
+467,1939,Mr. Smith Goes to Washington
+468,1939,Stagecoach
+469,1939,Ninotchka
+470,1939,Dark Victory
+471,1939,Goodbye Mr. Chips
+472,1939,Love Affair
+473,1939,Of Mice and Men
+474,1939,Wuthering Heights
+475,1939,Gone with the Wind
+476,1938,La grande illusion
+477,1938,Jezebel
+478,1938,Alexander’s Ragtime Band
+479,1938,Boys Town
+480,1938,Four Daughters
+481,1938,Pygmalion
+482,1938,Test Pilot
+483,1938,The Adventures of Robin Hood
+484,1938,The Citadel
+485,1938,You Can’t Take it With You
+486,1937,A Star Is Born
+487,1937,Captains Courageous
+488,1937,Dead End
+489,1937,In Old Chicago
+490,1937,Lost Horizon
+491,1937,One Hundred Men and a Girl
+492,1937,Stage Door
+493,1937,The Awful Truth
+494,1937,The Good Earth
+495,1937,The Life of Emile Zola
+496,1936,Dodsworth
+497,1936,A Tale of Two Cities
+498,1936,Anthony Adverse
+499,1936,Libeled Lady
+500,1936,Mr. Deeds Goes to Town
+501,1936,Romeo and Juliet
+502,1936,San Francisco
+503,1936,The Story of Louis Pasteur
+504,1936,Three Smart Girls
+505,1936,The Great Ziegfeld
+506,1935,Captain Blood
+507,1935,A Midsummer Night’s Dream
+508,1935,Alice Adams
+509,1935,Broadway Melody of 1936
+510,1935,Les MisÃ©rables
+511,1935,Naughty Marietta
+512,1935,Ruggles of Red Gap
+513,1935,The Informer
+514,1935,The Lives of a Bengal Lancer
+515,1935,The Personal History
+516,1935,Adventures
+517,1935,Experience & Observation of David Copperfield the Younger
+518,1935,Top Hat
+519,1935,Mutiny on the Bounty
+520,1934,Cleopatra
+521,1934,Flirtation Walk
+522,1934,Here Comes the Navy
+523,1934,Imitation of Life
+524,1934,One Night of Love
+525,1934,The Barretts of Wimpole Street
+526,1934,The Gay Divorcee
+527,1934,The House of Rothschild
+528,1934,The Thin Man
+529,1934,The White Parade
+530,1934,Viva Villa!
+531,1934,It Happened One Night
+532,1932,42nd Street
+533,1932,A Farewell to Arms
+534,1932,I Am a Fugitive from a Chain Gang
+535,1932,Lady for a Day
+536,1932,Little Women
+537,1932,She Done Him Wrong
+538,1932,Smilin’ Through
+539,1932,State Fair
+540,1932,The Private Life of Henry VIII
+541,1932,Cavalcade
+542,1931,Arrowsmith
+543,1931,Bad Girl
+544,1931,Five Star Final
+545,1931,One Hour with You
+546,1931,Shanghai Express
+547,1931,The Champ
+548,1931,The Smiling Lieutenant
+549,1931,Grand Hotel
+550,1930,East Lynne
+551,1930,Skippy
+552,1930,The Front Page
+553,1930,Trader Horn
+554,1930,Cimarron
+555,1929,Disraeli
+556,1929,The Divorcee
+557,1929,The Big House
+558,1929,The Love Parade
+559,1929,All Quiet on the Western Front
