@@ -1,9 +1,11 @@
 # Bechdel Test
 
+In this project, I do exploratory data analysis of top movies (by top grossing, by oscar nomination), their respecitve Bechdel Test ratings, and the change of these ratings over the years.
+
 ## About This Project
 The [Bechdel Test](https://en.wikipedia.org/wiki/Bechdel_test) is test of female representation in fiction. The test is named after American cartoonist Alison Bechdel.
 
-I did some exploratory data analysis of some high level movie data. I was initially inspired by the TedTalk [How Movies Teach Manhood](https://www.youtube.com/watch?v=ueOqYebVhtc&list=PLMDJVgXYlWvjJ-aFkIC1xRmY6pKOP-rEd&index=7), in which Colin Stokes speaks about how movies like the Wizard of Oz has strong female protagonists but later successful movies like Star Wars does not. 
+I was initially inspired by the TedTalk [How Movies Teach Manhood](https://www.youtube.com/watch?v=ueOqYebVhtc&list=PLMDJVgXYlWvjJ-aFkIC1xRmY6pKOP-rEd&index=7), in which Colin Stokes speaks about how movies like the Wizard of Oz has strong female protagonists but later successful movies like Star Wars does not. 
 
 This prompted me to think more about female representation and gender equality in movies in general, and I immediately thought of the Bechdel Test as an easy proxy to help categorize movies. I had a few questions I wanted to answer:
 * How many movies in the last 100 years pass the bechtel test?
