@@ -24,13 +24,17 @@ In my data, the `rating` category is based off of these criteria. `3.0` means th
 
 I used their [API](http://bechdeltest.com/api/v1/doc).
 
-## Top Movie Data
+### Top Movie Data
 * I used the [Top 10 Highest Grossing Films (1975-2018)](https://www.kaggle.com/bidyutchanda/top-10-highest-grossing-films-19752018) dataset from Kaggle
 * I found the Oscar's Best Pictures nominees and winners on IMDB 
 
 ## Tools
 * seaborn
 * beautifulsoup
+
+## Files
+* `datacollection.ipynb`: the boring details of how I scraped all of the data from the above-mentioned sources
+* `bechdel.ipynb`: using the sources detailed above, some exploratory graphs showing the change of ratings and pass/fail rates of movies over time
 
 
 # Main Takeaways / Caveats
